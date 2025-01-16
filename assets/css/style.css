@@ -53,19 +53,10 @@ E0F7FA
     color: #E0F7FA;
 }
 
-
-/* Nav  */
-
-
 /* Header */
-header{
-    background-color: palegreen;
-}
+
 
 /* Main */
-main{
-    background-color: rgb(251, 197, 152);
-}
 
 /* Section */
 section{
@@ -83,6 +74,18 @@ section{
   
 .cross-icon {
     color: #002D5B;
+}
+
+.btn-card{
+    background-color: #002D5B;
+    color: #E0F7FA;
+    cursor: pointer;
+}
+
+.btn-card:hover{
+    background-color: #E0F7FA;
+    color: #002D5B;
+    border: #002D5B solid 2px;
 }
 
 /* Footer */
