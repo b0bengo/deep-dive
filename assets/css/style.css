@@ -1,19 +1,77 @@
+/* General styles */
 *{
-
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body{
-
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
+/* Ocean colour scheme form light to dark
+E0F7FA
+00B2D1
+008CBA
+005B99
+002D5B */
+.dark{
+    background-color: #002D5B;
+}
+.dark-text{
+    color: #002D5B;
+}
+
+.deep{
+    background-color: #005B99;
+}
+.deep-text{
+    color: #005B99;
+}
+
+.mid{
+    background-color: #008CBA;
+}
+.mid-text{
+    color: #008CBA;
+}
+
+.surface{
+    background-color: #00B2D1;
+}
+.surface-text{
+    color: #00B2D1;
+}
+
+.sky{
+    background-color: #E0F7FA;
+}
+.sky-text{
+    color: #E0F7FA;
+}
+
+
+/* Nav  */
+
+/* Header */
 header{
     background-color: palegreen;
 }
 
+/* Main */
 main{
     background-color: rgb(251, 197, 152);
 }
 
+/* Section */
+section{
+    flex: 1 0 auto;
+}
+
+/* Footer */
 footer{
     background-color: rgb(152, 185, 251);
 }
