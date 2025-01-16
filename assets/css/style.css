@@ -55,11 +55,7 @@ E0F7FA
 
 
 /* Nav  */
-.navbar {
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-}
+
 
 /* Header */
 header{
@@ -76,7 +72,20 @@ section{
     flex: 1 0 auto;
 }
 
+.bold-icon {
+    font-weight: bold;
+    font-size: 1.2em; /* Adjust the size as needed */
+}
+  
+.tick-icon {
+    color: #008CBA;
+}
+  
+.cross-icon {
+    color: #002D5B;
+}
+
 /* Footer */
-footer{
-    background-color: rgb(152, 185, 251);
+footer i.bi{
+    color: #E0F7FA;
 }
