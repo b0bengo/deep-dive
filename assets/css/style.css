@@ -12,6 +12,15 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+p, h1, h2, h3, h4, h5, h6{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.blockquote > *{
+    font-family: 'Dancing Script', cursive;
+    font-size:xx-large;
+}
+
 /* Ocean colour scheme form light to dark
 E0F7FA
 00B2D1
@@ -54,7 +63,9 @@ E0F7FA
 }
 
 /* Header */
-
+.hero-part-2{
+    font-weight: bold;
+}
 
 /* Main */
 
