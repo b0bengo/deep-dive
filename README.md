@@ -84,7 +84,7 @@ A descending colour palette was chosen to as a reflection of the latter part of 
 
 Moreover, the choice of descending blue represented ocean colours with an attempt to emphasize how deep mental health can be.
 
-Here is a link to the website where the color palette was picked from: <a href="https://my.clevelandclinic.org/health/diseases/17843-mood-disorders" target="_blank" rel="noopener noreferrer" aria-label="Link to color pallette">Ocean colour palette</a>
+Here is a link to the website where the color palette was picked from: <a href="https://piktochart.com/tips/ocean-color-palette" target="_blank" rel="noopener noreferrer" aria-label="Link to color pallette">Ocean colour palette</a>
 
 #### Contrast checker
 
